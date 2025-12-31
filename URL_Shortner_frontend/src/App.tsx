@@ -18,7 +18,7 @@ function App() {
                   <Toaster theme="dark" position="bottom-right"/>
               </div>
           } />
-           Catch ALL single-segment paths
+          {/* Catch ALL single-segment paths */}
           <Route path="/:code" element={<RedirectHandler/>} />
       </Routes>
 
