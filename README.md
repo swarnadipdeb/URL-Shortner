@@ -361,3 +361,9 @@ The frontend is a single-page React app using React Router.
 4. Share the short URL. When someone visits it, they’ll be redirected to the original URL, and `accessCount` will increment.
 5. Use **URL Stats** to see how many times the link was accessed.
 6. Use **Change redirect URL** or **Delete URL** to manage existing short links.
+
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Inspiration
+- This project was inspired by the URL Shortening Service guide from roadmap.sh.
