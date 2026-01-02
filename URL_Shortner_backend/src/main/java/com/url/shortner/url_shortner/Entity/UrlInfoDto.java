@@ -17,6 +17,10 @@ import java.time.Instant;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class UrlInfoDto {
 
+        @JsonProperty("id")
+        @NonNull
+        private String id;
+
         @JsonProperty("short_code")
         @NonNull
         private String shortCode;

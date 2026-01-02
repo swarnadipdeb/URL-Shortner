@@ -44,6 +44,7 @@ public class UrlInfo {
     public UrlInfoDto transformToUrlInfoDto()
     {
         return UrlInfoDto.builder().
+                id(id).
                 url(url).
                 shortCode(shortCode).
                 createdAt(createdAt).
