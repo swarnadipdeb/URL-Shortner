@@ -63,7 +63,7 @@ URL_SHORTNER/
 - **Java 17+**
 - **Maven** (for backend)
 - **Node.js 18+** (recommended)
-- **pnpm** (preferred, as `pnpm-lock.yaml` and `pnpm-workspace.yaml` are present)
+- **pnpm** (preferred, as `pnpm-lock.yaml` present)
 - A running **MongoDB** instance
 
 ---
