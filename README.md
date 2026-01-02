@@ -5,7 +5,7 @@ Backend is built with Spring Boot and MongoDB; frontend is built with React, Typ
 
 
 ## 🚀 Live Demo
-🔗 **Live URL:** [https://url-shortner.example.com](https://url-shortner-ochre-six.vercel.app)
+🔗 **Live URL:** [https://url-shortner-ochre-six.vercel.app](https://url-shortner-ochre-six.vercel.app)
 
 
 ## Features
