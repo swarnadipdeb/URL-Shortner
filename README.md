@@ -366,4 +366,4 @@ The frontend is a single-page React app using React Router.
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Inspiration
-- This project was inspired by the URL Shortening Service guide from roadmap.sh.
+- This project was inspired by the URL Shortening Service guide from [roadmap.sh](https://roadmap.sh/projects/url-shortening-service).
